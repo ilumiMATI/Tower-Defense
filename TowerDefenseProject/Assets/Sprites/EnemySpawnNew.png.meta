@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: ba42d9c39b7e7014e9bb2010a8eaca8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1943627512090844641
+    second: EnemySpawnNew_0
+  - first:
+      213: -221587965574538826
+    second: EnemySpawnNew_1
+  - first:
+      213: 7882030110106102289
+    second: EnemySpawnNew_2
+  - first:
+      213: -4341889175138810248
+    second: EnemySpawnNew_3
+  - first:
+      213: 6145545958683769086
+    second: EnemySpawnNew_4
+  - first:
+      213: 3390707738234020043
+    second: EnemySpawnNew_5
+  - first:
+      213: 7768587199239479919
+    second: EnemySpawnNew_6
+  - first:
+      213: -3845991336906963021
+    second: EnemySpawnNew_7
+  - first:
+      213: 4099696646223656825
+    second: EnemySpawnNew_8
+  - first:
+      213: 7608560144035254617
+    second: EnemySpawnNew_9
+  - first:
+      213: 955723504509262755
+    second: EnemySpawnNew_10
+  - first:
+      213: -8107477907810816836
+    second: EnemySpawnNew_11
+  - first:
+      213: -1673325728551315924
+    second: EnemySpawnNew_12
+  - first:
+      213: 4616437486941296183
+    second: EnemySpawnNew_13
+  - first:
+      213: 2692247888841158232
+    second: EnemySpawnNew_14
+  - first:
+      213: 1632689763507682094
+    second: EnemySpawnNew_15
+  - first:
+      213: -2943369957545138445
+    second: EnemySpawnNew_16
+  - first:
+      213: 3694151741536615804
+    second: EnemySpawnNew_17
+  - first:
+      213: 3210155233490844110
+    second: EnemySpawnNew_18
+  - first:
+      213: -3571095809364410746
+    second: EnemySpawnNew_19
+  - first:
+      213: -7843169325066551939
+    second: EnemySpawnNew_20
+  - first:
+      213: -3881526654021176654
+    second: EnemySpawnNew_21
+  - first:
+      213: -7441823061020055918
+    second: EnemySpawnNew_22
+  - first:
+      213: 4468151917132388546
+    second: EnemySpawnNew_0
+  - first:
+      213: 5299809700806610382
+    second: EnemySpawnNew_1
+  - first:
+      213: -896328514704621849
+    second: EnemySpawnNew_2
+  - first:
+      213: 9136565419955488349
+    second: EnemySpawnNew_3
+  - first:
+      213: -9058953932101851530
+    second: EnemySpawnNew_4
+  - first:
+      213: 6626104703581662997
+    second: EnemySpawnNew_5
+  - first:
+      213: -2266827736520888654
+    second: EnemySpawnNew_6
+  - first:
+      213: 8324711664505546008
+    second: EnemySpawnNew_7
+  - first:
+      213: 4775951497338482422
+    second: EnemySpawnNew_8
+  - first:
+      213: -3957576312168521952
+    second: EnemySpawnNew_9
+  - first:
+      213: -9204553642762121386
+    second: EnemySpawnNew_10
+  - first:
+      213: -3218587406472007463
+    second: EnemySpawnNew_11
+  - first:
+      213: -4241209366149545077
+    second: EnemySpawnNew_12
+  - first:
+      213: -3779273106812992951
+    second: EnemySpawnNew_13
+  - first:
+      213: 7112029961607185991
+    second: EnemySpawnNew_14
+  - first:
+      213: -9222780096282259252
+    second: EnemySpawnNew_15
+  - first:
+      213: -7853976158909124051
+    second: EnemySpawnNew_16
+  - first:
+      213: -1075570143483387989
+    second: EnemySpawnNew_17
+  - first:
+      213: 1633025550676405841
+    second: EnemySpawnNew_18
+  - first:
+      213: 8000630712830911288
+    second: EnemySpawnNew_19
+  - first:
+      213: 8740177229329907075
+    second: EnemySpawnNew_20
+  - first:
+      213: -5312354646835300711
+    second: EnemySpawnNew_21
+  - first:
+      213: -5389368388722609305
+    second: EnemySpawnNew_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemySpawnNew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8182fce70120e30800000000000000
+      internalID: 4468151917132388546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd4fb1e7d4bc8940800000000000000
+      internalID: 5299809700806610382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3afef6f99f83f0800000000000000
+      internalID: -896328514704621849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 112
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56809387d99bce70800000000000000
+      internalID: 9136565419955488349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e0782561284280800000000000000
+      internalID: -9058953932101851530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa78d0f17a4fb50800000000000000
+      internalID: 6626104703581662997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be6bad0f2c9a80e0800000000000000
+      internalID: -2266827736520888654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81567641721578370800000000000000
+      internalID: 8324711664505546008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feea5f2596974240800000000000000
+      internalID: 4775951497338482422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd1bdef4dd319c0800000000000000
+      internalID: -3957576312168521952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc22fca3bd24080800000000000000
+      internalID: -9204553642762121386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b0be7ec74553d0800000000000000
+      internalID: -3218587406472007463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 56
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c8986d823425c0800000000000000
+      internalID: -4241209366149545077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 56
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942893ff1235d8bc0800000000000000
+      internalID: -3779273106812992951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460885a19103b260800000000000000
+      internalID: 7112029961607185991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc09d87ed5a120080800000000000000
+      internalID: -9222780096282259252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 28
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b5ddab42110390800000000000000
+      internalID: -7853976158909124051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf18a237aec211f0800000000000000
+      internalID: -1075570143483387989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 28
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e2431161ca9a610800000000000000
+      internalID: 1633025550676405841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 28
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ed518e33f70f60800000000000000
+      internalID: 8000630712830911288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dba24f1e85b4970800000000000000
+      internalID: 8740177229329907075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9967c724899b646b0800000000000000
+      internalID: -5312354646835300711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnNew_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.37, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763387a210e1535b0800000000000000
+      internalID: -5389368388722609305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AttackerSpawner : MonoBehaviour
 {
-    [SerializeField] GameObject attackerPrefab;
+    [SerializeField] Attacker attackerPrefab;
 
     bool spawn = true;
 

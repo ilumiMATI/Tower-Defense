@@ -11,7 +11,9 @@ GameObject:
   - component: {fileID: 6596364743707748078}
   - component: {fileID: 6596364743707748079}
   - component: {fileID: 6596364743707748076}
+  - component: {fileID: 1890057613}
   - component: {fileID: 6596364743707748065}
+  - component: {fileID: 7349569861087336654}
   m_Layer: 0
   m_Name: Ghost
   m_TagString: Untagged
@@ -103,6 +105,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!58 &1890057613
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6596364743707748077}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.024531126, y: -0.035292864}
+  serializedVersion: 2
+  m_Radius: 0.34136462
 --- !u!114 &6596364743707748065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115,4 +133,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a3c715ba623bf14790cad7b17abb326, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 0.5
+--- !u!114 &7349569861087336654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6596364743707748077}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0c2467db0a5d443be0ff39df1e23ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingHealth: 500
+  DeathVFX: {fileID: 1238871775328211267, guid: 0cd781b3596a98c4484b9cfae2b35e7d, type: 3}
+  timeToDestroyVFX: 0.7

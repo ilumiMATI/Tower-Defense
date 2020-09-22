@@ -145,6 +145,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed0c2467db0a5d443be0ff39df1e23ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingHealth: 500
+  startingHealth: 200
   DeathVFX: {fileID: 1238871775328211267, guid: 0cd781b3596a98c4484b9cfae2b35e7d, type: 3}
   timeToDestroyVFX: 0.7

@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour
 {
-    [SerializeField] GameObject defenderPrefab;
+    Defender defenderPrefab;
 
     private void OnMouseDown()
     {
-        Debug.Log("Mouse clicked");
         SpawnDefender(GetSquareClicked());
+    }
+
+    public void SetSelectedDefender(Defender selectedDefender)
+    {
+        defenderPrefab = selectedDefender;
     }
 
     private Vector2 GetSquareClicked()
@@ -31,6 +35,6 @@ public class DefenderSpawner : MonoBehaviour
     {
         if(!defenderPrefab) { return; }
 
-        GameObject spawnedDefender = Instantiate(defenderPrefab, posToSpawn, Quaternion.identity);
+        Defender spawnedDefender = Instantiate(defenderPrefab, posToSpawn, Quaternion.identity) as Defender;
     }
 }

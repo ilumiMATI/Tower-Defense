@@ -41,6 +41,7 @@ GameObject:
   - component: {fileID: 1353956492335934204}
   - component: {fileID: 825576351}
   - component: {fileID: 4857290204619378482}
+  - component: {fileID: -4383707747614214085}
   m_Layer: 0
   m_Name: Cannon
   m_TagString: Untagged
@@ -98,6 +99,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 6006741934490240262, guid: c862752106116ed4db7c5ea0d3044469, type: 3}
   projectileSpawn: {fileID: 993134956280507629}
+--- !u!114 &-4383707747614214085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1353956492335934205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae01505f5af4004a9b731246253c624, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  starCost: 100
 --- !u!1 &1353956492361589176
 GameObject:
   m_ObjectHideFlags: 0

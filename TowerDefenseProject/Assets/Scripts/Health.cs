@@ -6,7 +6,8 @@ using UnityEngine;
 public class Health : MonoBehaviour
 {
     [SerializeField] float startingHealth = 500f;
-    [SerializeField] GameObject DeathVFX;
+    [SerializeField] GameObject deathVFX;
+    [SerializeField] Transform VFXSpawn;
     [SerializeField] float timeToDestroyVFX = 0.35f;
     float currentHealth;
 
@@ -30,8 +31,17 @@ public class Health : MonoBehaviour
 
     private void TriggerDeathVFX()
     {
-        if(!DeathVFX) { return; }
-        var spawnedVFX = Instantiate(DeathVFX, transform.position, Quaternion.identity) as GameObject;
+        if(!deathVFX) { return; }
+        GameObject spawnedVFX;
+        if(!VFXSpawn)
+        {
+            spawnedVFX = Instantiate(deathVFX, transform.position, Quaternion.identity) as GameObject;
+        }
+        else
+        {
+            spawnedVFX = Instantiate(deathVFX, VFXSpawn.position, Quaternion.identity) as GameObject;
+        }
+        
         Destroy(spawnedVFX, timeToDestroyVFX);
     }
 }

@@ -138,6 +138,14 @@ PrefabInstance:
       propertyPath: m_Icon
       value: 
       objectReference: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: minTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: maxTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8243300526973050418, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10
@@ -199,6 +207,14 @@ PrefabInstance:
       propertyPath: m_Icon
       value: 
       objectReference: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: minTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: maxTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8243300526973050418, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10
@@ -341,6 +357,14 @@ PrefabInstance:
       propertyPath: m_Icon
       value: 
       objectReference: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: minTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: maxTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8243300526973050418, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10
@@ -417,6 +441,14 @@ PrefabInstance:
       propertyPath: m_Icon
       value: 
       objectReference: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: minTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: maxTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8243300526973050418, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10
@@ -675,6 +707,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1811420171, guid: 62a8550b2f6b57a4d81c97cf62044f4b, type: 3}
+      propertyPath: stars
+      value: 1000
+      objectReference: {fileID: 0}
     - target: {fileID: 2367266763502455961, guid: 62a8550b2f6b57a4d81c97cf62044f4b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -832,6 +868,14 @@ PrefabInstance:
     - target: {fileID: 8243300526973050416, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
       propertyPath: m_Name
       value: Attacker Spawner_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: minTimeToSpawn
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8243300526973050417, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
+      propertyPath: maxTimeToSpawn
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8243300526973050418, guid: 1841fc9474ad8b94386cac646027faf2, type: 3}
       propertyPath: m_LocalPosition.x

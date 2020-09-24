@@ -5,6 +5,8 @@ using UnityEngine;
 public class AttackerSpawner : MonoBehaviour
 {
     [SerializeField] Attacker attackerPrefab;
+    [SerializeField] float minTimeToSpawn = 1f;
+    [SerializeField] float maxTimeToSpawn = 5f;
 
     bool spawn = true;
 
@@ -13,11 +15,20 @@ public class AttackerSpawner : MonoBehaviour
     {
         while(spawn)
         {
-            float randomTime = Random.Range(1f, 5f);
+            float randomTime = Random.Range(minTimeToSpawn, maxTimeToSpawn);
             yield return new WaitForSeconds(randomTime);
-
-            Instantiate(attackerPrefab, transform.position, Quaternion.identity);
+            SpawnAttacker();
         }
     }
 
+    private void SpawnAttacker()
+    {
+        Attacker spawnedAttacker = Instantiate(attackerPrefab, transform.position, Quaternion.identity) as Attacker;
+        spawnedAttacker.transform.parent = transform;
+    }
+
+    public bool IsAttackerinLane()
+    {
+        return transform.childCount > 0;
+    }
 }
